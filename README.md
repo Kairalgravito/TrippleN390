@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrippleN390
+- 👋 Hi, I’m alessiok
 - 👀 I’m interested in solving puzzles, writing, reading and listening to music
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on the moon project
