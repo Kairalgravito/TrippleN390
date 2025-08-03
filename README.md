@@ -1,4 +1,4 @@
-- 👋 Hi, I’m alessiok
+- 👋 Hi, I’m Alessio
 - 👀 I’m interested in solving puzzles, writing, coding and listening to music
 - 🌱 I’m currently learning Python and JavaScript
 
